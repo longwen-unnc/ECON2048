@@ -1,2 +1,2 @@
-# ECON2048
+# Data for ECON2048
 
